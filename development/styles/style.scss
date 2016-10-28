@@ -1,0 +1,24 @@
+/*!  ----------------------------------------------------------------------------
+Theme Name: Starter Wordpress Theme (Front-end)
+Theme URI: https://emanuellimeira.com.br
+Author: Emanuel Limeira
+Author URI: https://emanuellimeira.com.br
+Description: Starter WordPress Blog Theme (Front-end)
+Version: 1.0
+Text Domain: starter, webblog
+License: GNU General Public License
+ ---------------------------------------------------------------------------- */
+
+@import url('//fonts.googleapis.com/css?family=Open+Sans|Raleway:300,400,600');
+@import "bower_components/bootstrap/scss/bootstrap";
+
+
+body {
+	/* font-family: 'Raleway', Helvetica, Arial, sans-serif; */
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	font-weight: 600;
+}
+
+
