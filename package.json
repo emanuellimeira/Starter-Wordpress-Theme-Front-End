@@ -1,7 +1,7 @@
 {
-  "name": "Starter Wordpress Theme Front-end",
+  "name": "starterwpfrontend",
+  "description": "Starter Wordpress Theme Front-end",
   "version": "1.0.0",
-  "description": "",
   "main": "Gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1",
