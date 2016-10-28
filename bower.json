@@ -1,5 +1,5 @@
 {
-  "name": "Starter Wordpress Theme (Front-end)",
+  "name": "Starter Wordpress Theme Front-end",
   "version": "1.0.0",
   "dependencies": {
     "bootstrap": "v4.0.0-alpha.5",
